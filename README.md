@@ -1,5 +1,5 @@
 # Shellcode-Injector
-Inject shellcode into any executable .                                                                                                                
+Inject shellcode into executable .                                                                                                                
 
 
 NOTE : CREATE YOUR OWN SHELLCODE USING MSFVENOM
